@@ -1,6 +1,11 @@
 /** IMPORTS **/
+
 @import "../variables.scss";
-@import "../pc/homepage/homepage.scss";
+// scss/pc/main.scss ichida
+@import "homepage/homepage.scss";
+@import "property/property.scss";
+@import "property/detail.scss";
+
 
 #pc-wrap {
   #top {
