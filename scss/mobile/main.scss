@@ -1,0 +1,17 @@
+#mobile-wrap {
+  #top {
+    .navbat {
+      height: 100px;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+    }
+  }
+  #footer-container {
+    height: 150px;
+    background: #181a20;
+    color: white;
+    text-align: center;
+    justify-content: center;
+  }
+}
